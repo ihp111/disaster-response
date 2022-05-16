@@ -6,7 +6,7 @@ This repository was wrtten in Python 3, html, sqlalchemy, numpy, pandas, sci-kit
 
 ## Project Motivation
 
-For this project, I built a machine learning pipeline to process a flood of incoming messages and classify each message to an appropriate cateogry to relieve disaster workers' workload. There are 36 different categories in total. The project demonstrate it in a web app where the user can input a message and see if it falls under one of the categories along with a couple of charts.
+For this project, I built a machine learning pipeline to process a flood of incoming messages and classify each message to an appropriate cateogry to relieve disaster workers' workload. There are 36 different categories in total. The project demonstrates it in a web app where the user can input a message and see if it falls under one of the categories along with a couple of charts.
 
 ## File Descriptions
 
@@ -34,7 +34,7 @@ classifier.pkl - the model pipeline converted to a pickle file
 
 ## Results
 
-The model classifies incoming messages to a proper bucket with a fairly high performance. The performance measures of your model would be printed once you run run.py file.
+The model classifies incoming messages to a proper bucket with a fairly high performance. The performance measures are printed once you run run.py file.
 
 ## Licensing, Authors, Acknowledgements
 

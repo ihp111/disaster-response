@@ -38,7 +38,7 @@ The model classifies incoming messages to a proper bucket with a fairly high per
 
 ## Licensing, Authors, Acknowledgements
 
-This app was completed as part of the Udacity Data Scientist Nanodegree.
+Thank you to Bryan Chambers. I referenced his repository https://github.com/BryanChambers510/Disaster-Pipeline on the description of files used in his README file.
 
 ## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
